@@ -1,0 +1,3 @@
+name:indu
+course:devops
+the thing that i learned in devops how to create GitHub and uses
